@@ -12,4 +12,4 @@ This repository contains my current and future assignments' solutions in Intro t
 - Word Sense Disambiguation (WSD) using Lesk -> Basic and Extended (lemmatization)
 
 ## **Usage Guideline**
-These materials are only intended to serve as guides for learning and understanding LLM concepts. Please use it responsibly.
+These materials are only intended to serve as guides for learning and understanding LLM concepts. Please use them responsibly.
