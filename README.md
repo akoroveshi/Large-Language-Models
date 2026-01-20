@@ -14,6 +14,10 @@ This repository contains my current and future assignments' solutions in Intro t
 - Ranked retrieval using: TF-IDF, BM25 and LSA
 - Trained Word2Vec(CBOW) with PyTorch
 - LSA vs CBOW evaluation testing by Mean Average Precision
+### *HW 3:*
+- T5 encoder-decoder architecture
+- Multiheader and Cross Multiheader Attention
+- Machine translation
 
 ## **Usage Guideline**
 These materials are only intended to serve as guides for learning and understanding LLM concepts. Please use them responsibly.
