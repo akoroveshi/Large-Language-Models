@@ -1,7 +1,7 @@
 # **Large Language Models Assignments and Coursework**
 
 ## **Overview**
-This repository contains my current and future assignments' solutions in Intro to LLM during my master studies at TU Darmstadt. 
+This repository contains my current assignments' solutions in Intro to LLM during my master studies at TU Darmstadt. 
 
 ## **Concepts implemented**
 ### *HW 1:*
